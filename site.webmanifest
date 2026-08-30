@@ -1,1 +1,17 @@
 
+{
+  "name": "Minsha Solar",
+  "short_name": "MinshaSolar",
+  "description": "Solar System Service Provider in Bangladesh",
+  "start_url": "/MinshaSolar/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0b5e42",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
